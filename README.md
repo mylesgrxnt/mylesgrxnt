@@ -1,4 +1,4 @@
-👋 Hi There! My name is Myles and I'm a Computer Science and Philosophy double major at Boston College. Currently, I am finishing my senior year of college, working at my university's makerspace, and interning at Allied Solutions. I am always interested in learning more about Software Engineering, Frontend Development, and UI/UX!
+👋 Hi There! My name is Myles and I'm a Computer Science and Philosophy double major at Boston College. Currently, I am finishing my senior year of college, working at my university's makerspace, and coding as a Student Programmer with Boston College ITS. I am always interested in learning more about Software Engineering, Frontend Development, and UI/UX!
 
 👀 I’m interested in rock climbing, video games/board games, and bass guitar!
 
